@@ -2,3 +2,4 @@
 - 👀 I’m a Full Stack Developer and a Data Engineer
 - 💞️ I’m looking to collaborate on MERN Projects
 - 📫 You can connect with me on vrushangvaishnav9@gmail.com
+- Linkedin: https://www.linkedin.com/in/vrushangvaishnav/
