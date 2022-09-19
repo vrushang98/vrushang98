@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/vrushang98/vrushang98/main/name.svg" alt="Marton Lederer" />
+  <img src="https://raw.githubusercontent.com/vrushang98/vrushang98/master/name.svg" alt="Vrushang Vaishnav" />
 </h1>
 
 # Hey!!! Great to see you here! <img src="https://res.cloudinary.com/wdwfsdp/image/upload/v1653151976/wave_ynlhyq.gif" width="30px" height="30px">
