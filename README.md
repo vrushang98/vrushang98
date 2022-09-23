@@ -56,7 +56,7 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-ffffff?style=for-the-badge&logo=Docker&logoColor=blue)
+![Docker](https://img.shields.io/badge/Docker-dcdde1?style=for-the-badge&logo=Docker&logoColor=blue)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-7f8c8d?style=for-the-badge&logo=Kubernetes&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
